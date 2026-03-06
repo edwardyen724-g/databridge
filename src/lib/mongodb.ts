@@ -1,0 +1,1 @@
+export const connectToDatabase = async () => { return { db: {} }; };
